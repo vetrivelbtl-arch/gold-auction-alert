@@ -1,4 +1,4 @@
-name: Gold Auction Alert
+name: Gold Auction Alert   
 
 on:
   schedule:
